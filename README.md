@@ -160,16 +160,10 @@
 <hr>
 <br>
 
-
-## Just a snake eating my contributions 🐍
-<p align='center'>
-<img src="https://github.com/chinmay29hub/chinmay29hub/raw/output/github-contribution-grid-snake.svg">
-</p>
-
 <hr>
 <br>
 
-<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
+<h2 align='center'>Thanks God For the Life you Gived Me</h2>
 <br>
 
 <p align='center'>
