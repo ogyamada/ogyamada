@@ -90,8 +90,8 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;
 <a href="https://t.me/yuuii_chi" target="_blank">
-<img src="https://img.shields.io/badge/chinmay29hub-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
-</a>&nbsp;&nbsp;
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ef495640-5de5-4944-afc0-d42fb6da83aa" />
+
 </p>
 <br>
 
