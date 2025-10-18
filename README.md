@@ -87,7 +87,8 @@
 <br>
 <p align='center'>
 <a href="mailto:youyou2004z@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2461e44f-4a30-4de2-8dfc-2abafd9163b5" />
+
 </a>&nbsp;&nbsp;
 <a href="https://t.me/yuuii_chi" target="_blank">
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ef495640-5de5-4944-afc0-d42fb6da83aa" />
