@@ -10,14 +10,6 @@
 
 ---
 
-## Github Stats 📊
-
-<p align="center">
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ogyamada&show_icons=true&theme=github_dark&hide_border=true" alt="ogyamada's GitHub Stats">
-</p>
-
----
-
 ## Most Used Languages 📚
 
 <p align="center">
