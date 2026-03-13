@@ -10,15 +10,6 @@
 
 ---
 
-## Most Used Languages 📚
-
-<p align="center">
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ogyamada&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10" alt="Most Used Languages">
-</p>
-
-> **Note:** This does not indicate my skill level — it's a GitHub metric of which languages have the most code on GitHub.
-
----
 
 ## Technology Stack 💻
 
