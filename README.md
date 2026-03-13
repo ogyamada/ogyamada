@@ -10,9 +10,6 @@
 
 ---
 
-
-## Technology Stack 💻
-
 ### Programming Languages 👨‍💻
 
 <p align="center">
