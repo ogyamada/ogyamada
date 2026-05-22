@@ -1,7 +1,7 @@
 # Hello Fellow < Coders/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+yamada+ZR;Computer+Engineering;Cooking+Projects">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=500&height=75&lines=I'm+yamada+yamada;Engineer+·+Operator+·+Founder;Building+DZBuild+from+Algiers">
 </p>
 
 <p align="center">
@@ -10,40 +10,83 @@
 
 ---
 
-### Programming Languages 👨‍💻
+### 🧑‍💻 About Me
+
+> **Engineer, operator, founder.** Based in **Algiers**.  
+> I build production software end to end — application, infrastructure, observability, and the humans around it.  
+> Today I run [**DZBuild**](https://dzbuild.com), an e-commerce platform for North-African merchants.
+
+---
+
+### 🚀 Building Now
+
+| Project | Description |
+|---------|-------------|
+| [**DZBuild**](https://dzbuild.com) | E-commerce platform for North-African merchants. Multi-region, multilingual, custom-domain SaaS. |
+| **Minacef** | The platform that became DZBuild. |
+
+---
+
+### Languages 👨‍💻
 
 <p align="center">
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-### Frameworks & Libraries 📦
+### Databases 💾
 
 <p align="center">
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+</p>
+
+### Servers & Runtimes ⚙️
+
+<p align="center">
+<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/PHP--FPM-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/OpenResty-009639?style=for-the-badge&logo=nginx&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Mercure%20SSE-1C1C1C?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </p>
 
-### Design 🎨
+### Operating Systems 🐧
 
 <p align="center">
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Alpine-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white">
 </p>
 
-### IDEs/Editors 👨‍🔧
+### Edge, CDN & Storage 🌐
 
 <p align="center">
-<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">&nbsp;
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Bunny%20CDN-FF6600?style=for-the-badge&logo=bunnycdn&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/R2%20/%20S3-F38020?style=for-the-badge&logo=amazons3&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/imgproxy-1C1C1C?style=for-the-badge&logo=image&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Automated%20TLS-009639?style=for-the-badge&logo=letsencrypt&logoColor=white">
+</p>
+
+### Practice 🔧
+
+<p align="center">
+<img src="https://img.shields.io/badge/Production%20Ownership-000000?style=for-the-badge">&nbsp;
+<img src="https://img.shields.io/badge/Multi--Region%20Deploys-000000?style=for-the-badge">&nbsp;
+<img src="https://img.shields.io/badge/Observability%20&%20On--Call-000000?style=for-the-badge">&nbsp;
+<img src="https://img.shields.io/badge/Security%20Audits-000000?style=for-the-badge">&nbsp;
+<img src="https://img.shields.io/badge/Incident%20Triage-000000?style=for-the-badge">
 </p>
 
 ### Version Control 🔧
@@ -53,42 +96,24 @@
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
+---
+
+### ⚙️ How I Work
+
+> Boring infrastructure, battle-tested choices, written by hand.  
+> I prefer the right thing fast over the clever thing fragile.  
+> I lead with PHP and Linux. Most of what I ship is owned end to end — code, server, database, deploy, on-call.
+
+---
+
 ### Contact 📬
 
 <p align="center">
-<a href="mailto:youyou2004z@gmail.com">
-<img width="50" height="50" alt="Gmail" src="https://github.com/user-attachments/assets/2461e44f-4a30-4de2-8dfc-2abafd9163b5">
-</a>
-</p>
-
-### Database 💾
-
-<p align="center">
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
-
-### ML/DL 🤖
-
-<p align="center">
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
-</p>
-
-### IoT 🔌
-
-<p align="center">
-<img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
-</p>
-
-### Operating Systems 🐧
-
-<p align="center">
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">&nbsp;
-<img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<a href="https://dzbuild.com"><img src="https://img.shields.io/badge/DZBuild-000000?style=for-the-badge&logo=shopify&logoColor=white"></a>&nbsp;
+<a href="https://yamada.dzbuild.com"><img src="https://img.shields.io/badge/Portfolio-fbe9e0?style=for-the-badge&logo=googlechrome&logoColor=000000"></a>&nbsp;
+<a href="mailto:yamada@dzbuild.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
+<a href="https://x.com/ogyamada"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>&nbsp;
+<a href="https://github.com/ogyamada"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
@@ -101,6 +126,6 @@
 
 ---
 
-Credit: [ogyamada](https://github.com/ogyamada)
+Credit: [ogyamada](https://github.com/ogyamada) · [yamada.dzbuild.com](https://yamada.dzbuild.com)
 
-Last Edited on: 03/03/2026
+Last Edited on: 05/2026
