@@ -38,13 +38,6 @@ Founder of [**DZBuild**](https://dzbuild.com), an e-commerce platform for North-
 <img src="https://img.shields.io/badge/Merged-421%20(95%25)-8250df?style=for-the-badge&logo=git&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Shipping%20since-2021-1c1c1c?style=for-the-badge&logo=github&logoColor=white">
 </p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ogyamada&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" height="165">
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogyamada&layout=compact&theme=github_dark&hide_border=true" height="165">
-</p>
-
 ---
 
 ### Stack
