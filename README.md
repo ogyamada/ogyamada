@@ -1,4 +1,4 @@
-<h1 align="center">yamada yamada</h1>
+<h1 align="center">Yamada</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=520&height=60&lines=Engineer+%C2%B7+Operator+%C2%B7+Founder;Building+DZBuild+from+Algiers;PHP+%C2%B7+Linux+%C2%B7+Production+end+to+end">
