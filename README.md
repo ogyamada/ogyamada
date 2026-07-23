@@ -83,7 +83,7 @@ Founder of [**DZBuild**](https://dzbuild.com), an e-commerce platform for North-
 ---
 
 <p align="center">
-<a href="https://dzbuild.com">dzbuild.com</a> · <a href="https://yamada.dzbuild.com">yamada.dzbuild.com</a> · <a href="mailto:yamada@dzbuild.me">yamada@dzbuild.me</a>
+<a href="https://dzbuild.com">dzbuild.com</a>
 </p>
 
 <p align="center"><i>الحمد لله</i></p>
