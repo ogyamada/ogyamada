@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://dzbuild.com"><img src="https://img.shields.io/badge/DZBuild-000000?style=for-the-badge&logoColor=white"></a>&nbsp;
-<a href="https://dzbuild.com"><img src="https://img.shields.io/badge/Portfolio-1c1c1c?style=for-the-badge&logo=googlechrome&logoColor=white"></a>&nbsp;
+<a href="https://ownz.net/dzbuild"><img src="https://img.shields.io/badge/Portfolio-1c1c1c?style=for-the-badge&logo=googlechrome&logoColor=white"></a>&nbsp;
 <a href="mailto:support@dzbuild.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
 <a href="https://x.com/dzbuild"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"></a>
 </p>
