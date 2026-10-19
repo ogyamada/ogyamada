@@ -12,6 +12,15 @@
 </p>
 
 ---
+### Goal
+
+My goal is to build an ecosystem of systems that change everyday life in Algeria by solving real problems and making daily life easier.
+
+But there’s a problem with how we’re doing it. We’re living in the AI era, and I see it in myself and in many of my friends: AI doesn’t just make things easier, it does our thinking for us. Little by little, the brain stops working. Convenience is turning into dependence.
+
+I want to build the opposite. My systems will be as easy to use as AI, but designed to keep people thinking, learning and in control. The aim is technology that serves the mind instead of replacing it, so we stay sharp and awake.
+
+---
 
 ### About
 
