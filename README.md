@@ -1,98 +1,92 @@
-<h1 align="center">ogyamada</h1>
+<a href="https://yuuiichi.com"><img src="https://yuuiichi.com/github-banner.png" alt="Yamada, known as Yuuichi" width="100%"></a>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=520&height=60&lines=Engineer+%C2%B7+Operator+%C2%B7+Founder;Building+DZBuild+from+Algiers;PHP+%C2%B7+Linux+%C2%B7+Production+end+to+end">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1400&color=D4D4D8&center=true&vCenter=true&width=560&height=44&lines=Engineer+%C2%B7+Algiers;Part+of+the+DZBuild+team;Production+software%2C+end+to+end;Locked+in+when+it+counts." alt="Engineer · Algiers · Part of the DZBuild team">
 </p>
 
 <p align="center">
-<a href="https://dzbuild.com"><img src="https://img.shields.io/badge/DZBuild-000000?style=for-the-badge&logoColor=white"></a>&nbsp;
-<a href="https://ownz.net/dzbuild"><img src="https://img.shields.io/badge/Portfolio-1c1c1c?style=for-the-badge&logo=googlechrome&logoColor=white"></a>&nbsp;
-<a href="mailto:support@dzbuild.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
-<a href="https://x.com/dzbuild"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white"></a>
+<a href="https://yuuiichi.com"><img src="https://img.shields.io/badge/yuuiichi.com-0a0a0b?style=for-the-badge&logo=googlechrome&logoColor=ededef" alt="Website"></a>
+<a href="https://dzbuild.com"><img src="https://img.shields.io/badge/DZBuild-0a0a0b?style=for-the-badge&logoColor=ededef" alt="DZBuild"></a>
+<a href="https://x.com/dzbuild"><img src="https://img.shields.io/badge/X-0a0a0b?style=for-the-badge&logo=x&logoColor=ededef" alt="X"></a>
+<a href="https://yuuiichi.com/rss.xml"><img src="https://img.shields.io/badge/RSS-0a0a0b?style=for-the-badge&logo=rss&logoColor=ededef" alt="RSS"></a>
 </p>
 
----
-### Goal
+<!--STATS:START-->
+<!--STATS:END-->
 
-My goal is to build an ecosystem of systems that change everyday life in Algeria by solving real problems and making daily life easier.
-
-But there’s a problem with how we’re doing it. We’re living in the AI era, and I see it in myself and in many of my friends: AI doesn’t just make things easier, it does our thinking for us. Little by little, the brain stops working. Convenience is turning into dependence.
-
-I want to build the opposite. My systems will be as easy to use as AI, but designed to keep people thinking, learning and in control. The aim is technology that serves the mind instead of replacing it, so we stay sharp and awake.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ogyamada/ogyamada/output/snake-dark.svg">
+  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/ogyamada/ogyamada/output/snake-light.svg" width="100%">
+</picture>
 
 ---
 
 ### About
 
-Engineer, operator, and founder based in **Algiers**. I build production software end to end — application code, infrastructure, databases, observability, and the deploy pipeline — and I run it in production myself.
+Engineer based in **Algiers**. I build production software end to end: application code, infrastructure, databases, observability and the deploy pipeline, and I run it in production myself.
 
-Founder of [**DZBuild**](https://dzbuild.com), an e-commerce platform for North-African merchants: multi-region, multilingual (Arabic/French RTL-first), custom-domain SaaS serving live stores every day.
+Part of the team behind [**DZBuild**](https://dzbuild.com), an e-commerce platform for North-African merchants: multi-region, multilingual (Arabic/French, RTL-first), custom-domain SaaS serving live stores every day.
+
+### Goal
+
+Build an ecosystem of systems that change everyday life in Algeria by solving real problems and making daily life easier.
+
+But there's a problem with how we're doing it. We're living in the AI era, and I see it in myself and in many of my friends: AI doesn't just make things easier, it does our thinking for us. Little by little, the brain stops working. Convenience is turning into dependence.
+
+I want to build the opposite: systems as easy to use as AI, but designed to keep people thinking, learning and in control. Technology that serves the mind instead of replacing it, so we stay sharp and awake.
 
 ---
 
-### What I'm Building
+### Work
 
 | Project | What it is |
-|---------|------------|
-| [**DZBuild**](https://dzbuild.com) | E-commerce SaaS for North-African merchants — storefronts, landing pages, order management, courier integrations, and analytics. Multi-region, multilingual, custom domains, real-time dashboards. |
-| [**dzship**](https://github.com/DZBuild-com/dzship) | Free Algerian shipping API and courier integration kit. Create and track COD parcels across Yalidine, ZR Express, Maystro, NOEST, and Ecotrack through one unified API — with a typed JS SDK plus single-file PHP and Python clients. |
-| [**ownz**](https://github.com/DZBuild-com/ownz) | Free, open-source, self-hostable link-in-bio and portfolio builder ([ownz.net](https://ownz.net)) — a self-hosted Linktree/Carrd alternative. RTL-first, multilingual, static-fast. Node + Hono + Drizzle + React. |
+|---|---|
+| [**DZBuild**](https://dzbuild.com) | E-commerce SaaS for North-African merchants: storefronts, landing pages, order management, courier integrations and analytics. Multi-region, multilingual, custom domains, real-time dashboards. |
+| [**dzship**](https://github.com/DZBuild-com/dzship) | Free Algerian shipping API and courier kit. Create and track COD parcels across Yalidine, ZR Express, Maystro, NOEST and Ecotrack through one API, with a typed JS SDK plus single-file PHP and Python clients. |
+| [**ownz**](https://github.com/DZBuild-com/ownz) | Open-source, self-hostable link-in-bio and portfolio builder ([ownz.net](https://ownz.net)). RTL-first, multilingual, static-fast. Node, Hono, Drizzle, React. |
 
----
+### Recently
 
-### Pull Request Track Record
+<!--ACTIVITY:START-->
+<!--ACTIVITY:END-->
 
-<p align="center">
-<img src="https://img.shields.io/badge/Pull%20Requests-441%20opened-2ea44f?style=for-the-badge&logo=github&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Merged-421%20(95%25)-8250df?style=for-the-badge&logo=git&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Shipping%20since-2021-1c1c1c?style=for-the-badge&logo=github&logoColor=white">
-</p>
+### Writing
+
+<!--WRITING:START-->
+<!--WRITING:END-->
+
 ---
 
 ### Stack
 
-**Languages & runtimes**
-
 <p>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-121214?style=flat-square&logo=php&logoColor=ededef" alt="PHP">
+<img src="https://img.shields.io/badge/TypeScript-121214?style=flat-square&logo=typescript&logoColor=ededef" alt="TypeScript">
+<img src="https://img.shields.io/badge/JavaScript-121214?style=flat-square&logo=javascript&logoColor=ededef" alt="JavaScript">
+<img src="https://img.shields.io/badge/Node.js-121214?style=flat-square&logo=nodedotjs&logoColor=ededef" alt="Node.js">
+<img src="https://img.shields.io/badge/Bash-121214?style=flat-square&logo=gnubash&logoColor=ededef" alt="Bash">
+<br>
+<img src="https://img.shields.io/badge/MariaDB%20Galera-121214?style=flat-square&logo=mariadb&logoColor=ededef" alt="MariaDB Galera">
+<img src="https://img.shields.io/badge/PostgreSQL-121214?style=flat-square&logo=postgresql&logoColor=ededef" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Redis%20HA-121214?style=flat-square&logo=redis&logoColor=ededef" alt="Redis HA">
+<img src="https://img.shields.io/badge/nginx-121214?style=flat-square&logo=nginx&logoColor=ededef" alt="nginx">
+<img src="https://img.shields.io/badge/Linux-121214?style=flat-square&logo=linux&logoColor=ededef" alt="Linux">
+<br>
+<img src="https://img.shields.io/badge/Cloudflare-121214?style=flat-square&logo=cloudflare&logoColor=ededef" alt="Cloudflare">
+<img src="https://img.shields.io/badge/Bunny%20CDN-121214?style=flat-square&logoColor=ededef" alt="Bunny CDN">
+<img src="https://img.shields.io/badge/R2%20%2F%20S3-121214?style=flat-square&logo=amazons3&logoColor=ededef" alt="R2 / S3">
+<img src="https://img.shields.io/badge/Automated%20TLS-121214?style=flat-square&logo=letsencrypt&logoColor=ededef" alt="Automated TLS">
 </p>
 
-**Data & infrastructure**
-
-<p>
-<img src="https://img.shields.io/badge/MariaDB%20Galera-003545?style=for-the-badge&logo=mariadb&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Redis%20HA-DD0031?style=for-the-badge&logo=redis&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</p>
-
-**Edge & delivery**
-
-<p>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Bunny%20CDN-FF6600?style=for-the-badge&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/R2%20%2F%20S3-F38020?style=for-the-badge&logo=amazons3&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Automated%20TLS-009639?style=for-the-badge&logo=letsencrypt&logoColor=white">
-</p>
-
----
-
-### How I Work
+### How I work
 
 - **Boring infrastructure, battle-tested choices, written by hand.** The right thing fast beats the clever thing fragile.
-- **End-to-end ownership** — code, server, database, deploy, monitoring, on-call. If it breaks at 3 AM, it's mine.
-- **Production first** — multi-region deploys, zero-downtime releases, Galera-safe migrations, incident triage under load.
-- **RTL and multilingual by default** — software built for Arabic and French speakers, not translated as an afterthought.
+- **End-to-end ownership.** Code, server, database, deploy, monitoring, on-call. If it breaks at 3 AM, it's mine.
+- **Production first.** Multi-region deploys, zero-downtime releases, Galera-safe migrations, incident triage under load.
+- **RTL and multilingual by default.** Software built for Arabic and French speakers, not translated as an afterthought.
 
 ---
 
 <p align="center">
-<a href="https://dzbuild.com">dzbuild.com</a>
+<a href="https://yuuiichi.com">yuuiichi.com</a> · <i>الحمد لله</i>
 </p>
-
-<p align="center"><i>الحمد لله</i></p>
