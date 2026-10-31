@@ -39,11 +39,11 @@ I want to build the opposite: systems as easy to use as AI, but designed to keep
 
 ### Work
 
-| | Project | What it is |
-|---|---|---|
-| <img src="https://img.shields.io/badge/live-0a0a0b?style=flat-square" alt="live"> | [**DZBuild**](https://dzbuild.com) | E-commerce SaaS for North-African merchants: storefronts, landing pages, order management, courier integrations and analytics. Multi-region, multilingual, custom domains, real-time dashboards. |
-| <img src="https://img.shields.io/github/stars/DZBuild-com/dzship?style=flat-square&label=%E2%98%85&labelColor=0a0a0b&color=26262a" alt="stars"> | [**dzship**](https://github.com/DZBuild-com/dzship) | Free Algerian shipping API and courier kit. Create and track COD parcels across Yalidine, ZR Express, Maystro, NOEST and Ecotrack through one API, with a typed JS SDK plus single-file PHP and Python clients. |
-| <img src="https://img.shields.io/github/stars/DZBuild-com/ownz?style=flat-square&label=%E2%98%85&labelColor=0a0a0b&color=26262a" alt="stars"> | [**ownz**](https://github.com/DZBuild-com/ownz) | Open-source, self-hostable link-in-bio and portfolio builder ([ownz.net](https://ownz.net)). RTL-first, multilingual, static-fast. Node, Hono, Drizzle, React. |
+| Project | What it is |
+|---|---|
+| [**DZBuild**](https://dzbuild.com) | E-commerce SaaS for North-African merchants: storefronts, landing pages, order management, courier integrations and analytics. Multi-region, multilingual, custom domains, real-time dashboards. |
+| [**dzship**](https://github.com/DZBuild-com/dzship) | Free Algerian shipping API and courier kit. Create and track COD parcels across Yalidine, ZR Express, Maystro, NOEST and Ecotrack through one API, with a typed JS SDK plus single-file PHP and Python clients. |
+| [**ownz**](https://github.com/DZBuild-com/ownz) | Open-source, self-hostable link-in-bio and portfolio builder ([ownz.net](https://ownz.net)). RTL-first, multilingual, static-fast. Node, Hono, Drizzle, React. |
 
 ### Recently
 
