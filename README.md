@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://yuuiichi.com"><img src="https://img.shields.io/badge/yuuiichi.com-0a0a0b?style=for-the-badge&logo=googlechrome&logoColor=ededef" alt="Website"></a>
 <a href="https://dzbuild.com"><img src="https://img.shields.io/badge/DZBuild-0a0a0b?style=for-the-badge&logoColor=ededef" alt="DZBuild"></a>
-<a href="https://x.com/dzbuild"><img src="https://img.shields.io/badge/X-0a0a0b?style=for-the-badge&logo=x&logoColor=ededef" alt="X"></a>
+<a href="https://t.me/yuuii_chi"><img src="https://img.shields.io/badge/Telegram-0a0a0b?style=for-the-badge&logo=telegram&logoColor=ededef" alt="Telegram"></a>
 <a href="https://yuuiichi.com/rss.xml"><img src="https://img.shields.io/badge/RSS-0a0a0b?style=for-the-badge&logo=rss&logoColor=ededef" alt="RSS"></a>
 </p>
 
