@@ -12,6 +12,12 @@
 </p>
 
 <!--STATS:START-->
+<table align="center"><tr>
+<td align="center"><b>12,470</b><br><sub>contributions · last year</sub></td>
+<td align="center"><b>1 days</b><br><sub>current streak</sub></td>
+<td align="center"><b>53 days</b><br><sub>longest streak</sub></td>
+<td align="center"><b>293 / 371</b><br><sub>active days</sub></td>
+</tr></table>
 <!--STATS:END-->
 
 <picture>
@@ -48,11 +54,18 @@ I want to build the opposite: systems as easy to use as AI, but designed to keep
 ### Recently
 
 <!--ACTIVITY:START-->
+- `Oct 31` Opened [#1](undefined) in [ogyamada/ogyamada](https://github.com/ogyamada/ogyamada)
+- `Oct 28` Pushed to [DZBuild-com/dzbuild-pos](https://github.com/DZBuild-com/dzbuild-pos)
+- `Oct 28` Opened [#12](undefined) in [DZBuild-com/dzbuild-pos](https://github.com/DZBuild-com/dzbuild-pos)
+- `Oct 19` Pushed to [ogyamada/ogyamada](https://github.com/ogyamada/ogyamada)
+- `Oct 10` Starred [DZBuild-com/dzbuild-pos](https://github.com/DZBuild-com/dzbuild-pos)
+- `Oct 9` Open-sourced [DZBuild-com/dzbuild-pos](https://github.com/DZBuild-com/dzbuild-pos)
 <!--ACTIVITY:END-->
 
 ### Writing
 
 <!--WRITING:START-->
+- [Hello, I&apos;m Yuuichi](https://yuuiichi.com/blog/hello-world/) · <sub>Oct 31</sub>
 <!--WRITING:END-->
 
 ---
