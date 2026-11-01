@@ -54,6 +54,7 @@ I want to build the opposite: systems as easy to use as AI, but designed to keep
 ### Recently
 
 <!--ACTIVITY:START-->
+- `Oct 31` Pushed to [WellWorn-dev/verdicts](https://github.com/WellWorn-dev/verdicts)
 - `Oct 31` Pushed to [twarc-net/twarc](https://github.com/twarc-net/twarc)
 - `Oct 31` Pushed to [WellWorn-dev/wellworn](https://github.com/WellWorn-dev/wellworn)
 - `Oct 31` Opened [#1](undefined) in [ogyamada/ogyamada](https://github.com/ogyamada/ogyamada)
@@ -61,7 +62,6 @@ I want to build the opposite: systems as easy to use as AI, but designed to keep
 - `Oct 28` Opened [#12](undefined) in [DZBuild-com/dzbuild-pos](https://github.com/DZBuild-com/dzbuild-pos)
 - `Oct 19` Pushed to [ogyamada/ogyamada](https://github.com/ogyamada/ogyamada)
 - `Oct 10` Starred [DZBuild-com/dzbuild-pos](https://github.com/DZBuild-com/dzbuild-pos)
-- `Oct 9` Open-sourced [DZBuild-com/dzbuild-pos](https://github.com/DZBuild-com/dzbuild-pos)
 <!--ACTIVITY:END-->
 
 ### Writing
