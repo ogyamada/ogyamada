@@ -13,10 +13,10 @@
 
 <!--STATS:START-->
 <table align="center"><tr>
-<td align="center"><b>12,373</b><br><sub>contributions · last year</sub></td>
-<td align="center"><b>1 days</b><br><sub>current streak</sub></td>
+<td align="center"><b>12,374</b><br><sub>contributions · last year</sub></td>
+<td align="center"><b>2 days</b><br><sub>current streak</sub></td>
 <td align="center"><b>53 days</b><br><sub>longest streak</sub></td>
-<td align="center"><b>289 / 369</b><br><sub>active days</sub></td>
+<td align="center"><b>290 / 369</b><br><sub>active days</sub></td>
 </tr></table>
 <!--STATS:END-->
 
@@ -54,6 +54,7 @@ I want to build the opposite: systems as easy to use as AI, but designed to keep
 ### Recently
 
 <!--ACTIVITY:START-->
+- `Nov 4` Pushed to [DZBuild-com/.github](https://github.com/DZBuild-com/.github)
 - `Oct 31` Pushed to [ogyamada/ogyamada](https://github.com/ogyamada/ogyamada)
 - `Oct 31` Pushed to [twarc-net/twarc](https://github.com/twarc-net/twarc)
 - `Oct 31` Pushed to [WellWorn-dev/wellworn](https://github.com/WellWorn-dev/wellworn)
@@ -61,12 +62,12 @@ I want to build the opposite: systems as easy to use as AI, but designed to keep
 - `Oct 31` Pushed to [WellWorn-dev/skills](https://github.com/WellWorn-dev/skills)
 - `Oct 31` Pushed to [DZBuild-com/dzbuild-pos](https://github.com/DZBuild-com/dzbuild-pos)
 - `Oct 31` Pushed to [DZBuild-com/.github](https://github.com/DZBuild-com/.github)
-- `Oct 31` Pushed to [DZBuild-com/dzship](https://github.com/DZBuild-com/dzship)
 <!--ACTIVITY:END-->
 
 ### Writing
 
 <!--WRITING:START-->
+- [Protect your login from brute force and leaked passwords](https://yuuiichi.com/blog/protect-your-login/) · <sub>Nov 5</sub>
 - [Hello, I&apos;m Yuuichi](https://yuuiichi.com/blog/hello-world/) · <sub>Oct 31</sub>
 <!--WRITING:END-->
 
