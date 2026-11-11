@@ -54,6 +54,7 @@ I want to build the opposite: systems as easy to use as AI, but designed to keep
 ### Recently
 
 <!--ACTIVITY:START-->
+- `Nov 10` Pushed to [DZBuild-com/dzship](https://github.com/DZBuild-com/dzship)
 - `Nov 4` Pushed to [DZBuild-com/.github](https://github.com/DZBuild-com/.github)
 - `Oct 31` Pushed to [ogyamada/ogyamada](https://github.com/ogyamada/ogyamada)
 - `Oct 31` Pushed to [twarc-net/twarc](https://github.com/twarc-net/twarc)
@@ -61,7 +62,6 @@ I want to build the opposite: systems as easy to use as AI, but designed to keep
 - `Oct 31` Pushed to [veltiq/groundtruth](https://github.com/veltiq/groundtruth)
 - `Oct 31` Pushed to [WellWorn-dev/skills](https://github.com/WellWorn-dev/skills)
 - `Oct 31` Pushed to [DZBuild-com/dzbuild-pos](https://github.com/DZBuild-com/dzbuild-pos)
-- `Oct 31` Pushed to [DZBuild-com/.github](https://github.com/DZBuild-com/.github)
 <!--ACTIVITY:END-->
 
 ### Writing
