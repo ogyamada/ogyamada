@@ -13,7 +13,7 @@
 
 <!--STATS:START-->
 <table align="center"><tr>
-<td align="center"><b>13,705</b><br><sub>contributions · last year</sub></td>
+<td align="center"><b>12,761</b><br><sub>contributions · last year</sub></td>
 <td align="center"><b>18 days</b><br><sub>current streak</sub></td>
 <td align="center"><b>103 days</b><br><sub>longest streak</sub></td>
 <td align="center"><b>344 / 369</b><br><sub>active days</sub></td>
@@ -57,11 +57,11 @@ I want to build the opposite: systems as easy to use as AI, but designed to keep
 - `Nov 10` Pushed to [DZBuild-com/dzship](https://github.com/DZBuild-com/dzship)
 - `Nov 4` Pushed to [DZBuild-com/.github](https://github.com/DZBuild-com/.github)
 - `Oct 31` Pushed to [ogyamada/ogyamada](https://github.com/ogyamada/ogyamada)
-- `Oct 31` Pushed to [twarc-net/twarc](https://github.com/twarc-net/twarc)
 - `Oct 31` Pushed to [WellWorn-dev/wellworn](https://github.com/WellWorn-dev/wellworn)
-- `Oct 31` Pushed to [veltiq/groundtruth](https://github.com/veltiq/groundtruth)
 - `Oct 31` Pushed to [WellWorn-dev/skills](https://github.com/WellWorn-dev/skills)
 - `Oct 31` Pushed to [DZBuild-com/dzbuild-pos](https://github.com/DZBuild-com/dzbuild-pos)
+- `Oct 31` Pushed to [DZBuild-com/.github](https://github.com/DZBuild-com/.github)
+- `Oct 31` Pushed to [DZBuild-com/dzship](https://github.com/DZBuild-com/dzship)
 <!--ACTIVITY:END-->
 
 ### Writing
