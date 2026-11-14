@@ -13,7 +13,7 @@
 
 <!--STATS:START-->
 <table align="center"><tr>
-<td align="center"><b>12,885</b><br><sub>contributions · last year</sub></td>
+<td align="center"><b>12,887</b><br><sub>contributions · last year</sub></td>
 <td align="center"><b>20 days</b><br><sub>current streak</sub></td>
 <td align="center"><b>103 days</b><br><sub>longest streak</sub></td>
 <td align="center"><b>346 / 371</b><br><sub>active days</sub></td>
@@ -54,6 +54,7 @@ I want to build the opposite: systems as easy to use as AI, but designed to keep
 ### Recently
 
 <!--ACTIVITY:START-->
+- `Nov 13` Pushed to [visitojs/visitojs](https://github.com/visitojs/visitojs)
 - `Nov 13` Opened [#9](undefined) in [visitojs/visitojs](https://github.com/visitojs/visitojs)
 - `Nov 13` Opened [#8](undefined) in [visitojs/visitojs](https://github.com/visitojs/visitojs)
 - `Nov 13` Opened [#7](undefined) in [visitojs/visitojs](https://github.com/visitojs/visitojs)
@@ -61,7 +62,6 @@ I want to build the opposite: systems as easy to use as AI, but designed to keep
 - `Nov 13` Opened [#6](undefined) in [visitojs/visitojs](https://github.com/visitojs/visitojs)
 - `Nov 13` Opened [#5](undefined) in [visitojs/visitojs](https://github.com/visitojs/visitojs)
 - `Nov 13` Starred [visitojs/visitojs](https://github.com/visitojs/visitojs)
-- `Nov 13` Open-sourced [visitojs/visitojs](https://github.com/visitojs/visitojs)
 <!--ACTIVITY:END-->
 
 ### Writing
