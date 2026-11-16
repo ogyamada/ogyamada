@@ -13,10 +13,10 @@
 
 <!--STATS:START-->
 <table align="center"><tr>
-<td align="center"><b>12,912</b><br><sub>contributions · last year</sub></td>
+<td align="center"><b>12,767</b><br><sub>contributions · last year</sub></td>
 <td align="center"><b>21 days</b><br><sub>current streak</sub></td>
 <td align="center"><b>103 days</b><br><sub>longest streak</sub></td>
-<td align="center"><b>340 / 365</b><br><sub>active days</sub></td>
+<td align="center"><b>340 / 366</b><br><sub>active days</sub></td>
 </tr></table>
 <!--STATS:END-->
 
