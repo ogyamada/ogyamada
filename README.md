@@ -13,10 +13,10 @@
 
 <!--STATS:START-->
 <table align="center"><tr>
-<td align="center"><b>12,767</b><br><sub>contributions · last year</sub></td>
-<td align="center"><b>21 days</b><br><sub>current streak</sub></td>
+<td align="center"><b>12,770</b><br><sub>contributions · last year</sub></td>
+<td align="center"><b>22 days</b><br><sub>current streak</sub></td>
 <td align="center"><b>103 days</b><br><sub>longest streak</sub></td>
-<td align="center"><b>340 / 366</b><br><sub>active days</sub></td>
+<td align="center"><b>341 / 366</b><br><sub>active days</sub></td>
 </tr></table>
 <!--STATS:END-->
 
@@ -54,19 +54,20 @@ I want to build the opposite: systems as easy to use as AI, but designed to keep
 ### Recently
 
 <!--ACTIVITY:START-->
+- `Nov 16` Forked [visitojs/visitojs](https://github.com/visitojs/visitojs)
+- `Nov 16` Opened [#16](undefined) in [visitojs/visitojs](https://github.com/visitojs/visitojs)
 - `Nov 15` Pushed to [DZBuild-com/dzship](https://github.com/DZBuild-com/dzship)
 - `Nov 13` Pushed to [visitojs/visitojs](https://github.com/visitojs/visitojs)
 - `Nov 15` Opened [#6](undefined) in [DZBuild-com/dzship](https://github.com/DZBuild-com/dzship)
 - `Nov 13` Opened [#9](undefined) in [visitojs/visitojs](https://github.com/visitojs/visitojs)
 - `Nov 13` Opened [#8](undefined) in [visitojs/visitojs](https://github.com/visitojs/visitojs)
 - `Nov 13` Opened [#7](undefined) in [visitojs/visitojs](https://github.com/visitojs/visitojs)
-- `Nov 13` Released [v1.0.0](https://github.com/visitojs/visitojs/releases/tag/v1.0.0) of [visitojs/visitojs](https://github.com/visitojs/visitojs)
-- `Nov 13` Opened [#6](undefined) in [visitojs/visitojs](https://github.com/visitojs/visitojs)
 <!--ACTIVITY:END-->
 
 ### Writing
 
 <!--WRITING:START-->
+- [Get a device ID in JavaScript with browser fingerprinting](https://yuuiichi.com/blog/device-id-javascript-browser-fingerprinting/) · <sub>Nov 16</sub>
 - [Protect your login from brute force and leaked passwords](https://yuuiichi.com/blog/protect-your-login/) · <sub>Nov 5</sub>
 - [Hello, I&apos;m Yuuichi](https://yuuiichi.com/blog/hello-world/) · <sub>Oct 31</sub>
 <!--WRITING:END-->
