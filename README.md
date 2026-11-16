@@ -54,6 +54,7 @@ I want to build the opposite: systems as easy to use as AI, but designed to keep
 ### Recently
 
 <!--ACTIVITY:START-->
+- `Nov 15` Pushed to [DZBuild-com/dzship](https://github.com/DZBuild-com/dzship)
 - `Nov 13` Pushed to [visitojs/visitojs](https://github.com/visitojs/visitojs)
 - `Nov 15` Opened [#6](undefined) in [DZBuild-com/dzship](https://github.com/DZBuild-com/dzship)
 - `Nov 13` Opened [#9](undefined) in [visitojs/visitojs](https://github.com/visitojs/visitojs)
@@ -61,7 +62,6 @@ I want to build the opposite: systems as easy to use as AI, but designed to keep
 - `Nov 13` Opened [#7](undefined) in [visitojs/visitojs](https://github.com/visitojs/visitojs)
 - `Nov 13` Released [v1.0.0](https://github.com/visitojs/visitojs/releases/tag/v1.0.0) of [visitojs/visitojs](https://github.com/visitojs/visitojs)
 - `Nov 13` Opened [#6](undefined) in [visitojs/visitojs](https://github.com/visitojs/visitojs)
-- `Nov 13` Opened [#5](undefined) in [visitojs/visitojs](https://github.com/visitojs/visitojs)
 <!--ACTIVITY:END-->
 
 ### Writing
