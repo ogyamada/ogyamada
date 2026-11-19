@@ -54,6 +54,7 @@ I want to build the opposite: systems as easy to use as AI, but designed to keep
 ### Recently
 
 <!--ACTIVITY:START-->
+- `Nov 17` Pushed to [visitojs/visitojs](https://github.com/visitojs/visitojs)
 - `Nov 17` Opened issue [#3859](https://github.com/upstash/context7/issues/3859) in [upstash/context7](https://github.com/upstash/context7)
 - `Nov 16` Forked [visitojs/visitojs](https://github.com/visitojs/visitojs)
 - `Nov 16` Opened [#16](undefined) in [visitojs/visitojs](https://github.com/visitojs/visitojs)
@@ -61,7 +62,6 @@ I want to build the opposite: systems as easy to use as AI, but designed to keep
 - `Nov 13` Pushed to [visitojs/visitojs](https://github.com/visitojs/visitojs)
 - `Nov 15` Opened [#6](undefined) in [DZBuild-com/dzship](https://github.com/DZBuild-com/dzship)
 - `Nov 13` Opened [#9](undefined) in [visitojs/visitojs](https://github.com/visitojs/visitojs)
-- `Nov 13` Opened [#8](undefined) in [visitojs/visitojs](https://github.com/visitojs/visitojs)
 <!--ACTIVITY:END-->
 
 ### Writing
