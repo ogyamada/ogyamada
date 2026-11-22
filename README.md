@@ -13,10 +13,10 @@
 
 <!--STATS:START-->
 <table align="center"><tr>
-<td align="center"><b>12,805</b><br><sub>contributions · last year</sub></td>
-<td align="center"><b>2 days</b><br><sub>current streak</sub></td>
+<td align="center"><b>12,808</b><br><sub>contributions · last year</sub></td>
+<td align="center"><b>3 days</b><br><sub>current streak</sub></td>
 <td align="center"><b>103 days</b><br><sub>longest streak</sub></td>
-<td align="center"><b>337 / 365</b><br><sub>active days</sub></td>
+<td align="center"><b>338 / 365</b><br><sub>active days</sub></td>
 </tr></table>
 <!--STATS:END-->
 
@@ -54,6 +54,7 @@ I want to build the opposite: systems as easy to use as AI, but designed to keep
 ### Recently
 
 <!--ACTIVITY:START-->
+- `Nov 22` Opened [#7](undefined) in [DZBuild-com/dzship](https://github.com/DZBuild-com/dzship)
 - `Nov 17` Pushed to [visitojs/visitojs](https://github.com/visitojs/visitojs)
 - `Nov 17` Opened issue [#3859](https://github.com/upstash/context7/issues/3859) in [upstash/context7](https://github.com/upstash/context7)
 - `Nov 16` Forked [visitojs/visitojs](https://github.com/visitojs/visitojs)
@@ -61,7 +62,6 @@ I want to build the opposite: systems as easy to use as AI, but designed to keep
 - `Nov 15` Pushed to [DZBuild-com/dzship](https://github.com/DZBuild-com/dzship)
 - `Nov 13` Pushed to [visitojs/visitojs](https://github.com/visitojs/visitojs)
 - `Nov 15` Opened [#6](undefined) in [DZBuild-com/dzship](https://github.com/DZBuild-com/dzship)
-- `Nov 13` Opened [#9](undefined) in [visitojs/visitojs](https://github.com/visitojs/visitojs)
 <!--ACTIVITY:END-->
 
 ### Writing
